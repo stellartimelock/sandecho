@@ -1,0 +1,2 @@
+document.querySelector('.menu')?.addEventListener('click',e=>{const n=document.querySelector('nav');n.classList.toggle('open');e.currentTarget.setAttribute('aria-expanded',n.classList.contains('open'))});
+document.querySelector('#quote-form')?.addEventListener('submit',e=>{e.preventDefault();document.querySelector('#form-msg').textContent='Thanks! This form is a demo and does not send yet — nothing was submitted.'});
