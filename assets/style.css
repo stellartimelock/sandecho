@@ -28,3 +28,4 @@ a.wc:hover{transform:translateY(-3px);box-shadow:0 8px 22px #2b211c26}
 .fine{font-size:.78rem;color:#7a6a5e;margin-top:1.2rem}
 input,select,textarea{background:var(--cream)}
 .sub{margin:-.6rem 0 1rem;font-size:.9rem;letter-spacing:.08em;text-transform:uppercase;color:var(--canyon);font-weight:600}
+h2{font-size:1.35rem;margin:1.6rem 0 .7rem}
