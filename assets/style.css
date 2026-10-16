@@ -40,3 +40,4 @@ h2{font-size:1.35rem;margin:1.6rem 0 .7rem}
 .price{padding:1rem 1.1rem}.price h3{font-size:1.1rem}.price small{font-family:Inter,sans-serif;font-size:.7rem;color:var(--sage);font-weight:600;text-transform:uppercase}
 .amt{font-family:Fraunces,serif;font-size:1.9rem;color:var(--canyon)!important;margin:.2rem 0 .4rem!important}.amt span{font-family:Inter,sans-serif;font-size:.85rem;color:#6b5a4e}
 .plist{margin:0;padding-left:1.1rem;font-size:.85rem;line-height:1.5}
+.promo{background:var(--canyon);color:var(--cream);padding:.6rem .9rem;border-radius:10px;font-weight:600;font-size:.9rem;margin:0 0 .9rem;text-align:center}
